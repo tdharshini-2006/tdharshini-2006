@@ -41,8 +41,3 @@ A full-stack MERN application for campus event discovery, RSVP, and waitlist man
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-   <img src=" https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=tdharshini-2006&show_icons=true&theme=default" alt="Dharshini's GitHub stats" />
-</p>
-</p>
